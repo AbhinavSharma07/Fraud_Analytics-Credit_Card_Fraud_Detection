@@ -1,4 +1,5 @@
-# Credit Card Fraud Detection
+# Fraud_Analytics-Credit_Card_Fraud_Detection
+
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Fraud%20Detection-orange)
@@ -16,7 +17,8 @@ This project implements machine learning models to detect fraudulent credit card
 ## Quick Start
 
 ```bash
-git clone https://github.com/AbhinavSharma07/credit-card-fraud-detection.git
+git clone https://github.com/AbhinavSharma07/Fraud_Analytics-Credit_Card_Fraud_Detection
+.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
 jupyter notebook
