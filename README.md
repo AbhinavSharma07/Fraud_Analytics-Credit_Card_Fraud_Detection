@@ -14,7 +14,7 @@ This project implements machine learning models to detect fraudulent credit card
 - Handles extreme class imbalance (0.172% fraud cases)
 - Employs advanced ML techniques for high-precision fraud detection
 
-### Dataset KAGGLE: https://www.kaggle.com/mlg-ulb/creditcardfraud
+### Dataset [Kaggle website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## Quick Start
 
