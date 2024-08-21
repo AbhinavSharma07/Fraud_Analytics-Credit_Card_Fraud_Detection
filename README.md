@@ -19,6 +19,6 @@ This project implements machine learning models to detect fraudulent credit card
 ```bash
 git clone https://github.com/AbhinavSharma07/Fraud_Analytics-Credit_Card_Fraud_Detection
 .git
-cd credit-card-fraud-detection
+cd Fraud_Analytics-Credit_Card_Fraud_Detection
 pip install -r requirements.txt
 jupyter notebook
