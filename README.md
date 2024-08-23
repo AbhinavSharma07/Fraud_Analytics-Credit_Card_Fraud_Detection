@@ -16,7 +16,7 @@ This project implements machine learning models to detect fraudulent credit card
 
 ### Dataset-> [Kaggle website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
-## Quick Start-
+## Quick Start
 
 ```bash
 git clone https://github.com/AbhinavSharma07/Fraud_Analytics-Credit_Card_Fraud_Detection.git
